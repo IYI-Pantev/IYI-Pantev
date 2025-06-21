@@ -9,7 +9,7 @@
 I'm an enthusiastic software engineer based in Bulgaria Sofia with dual Master’s degrees in Software Engineering and Law, blending analytical precision with hands-on technical skills. I recently completed the intensive JavaScript Alpha program at Telerik Academy, where I built full-stack projects using JavaScript, React, TypeScript, Next.js, PostgreSQL, and Firebase. I'm passionate about building scalable, user-focused web applications and continuously improving through real-world problem solving, clean code, and teamwork. I thrive in collaborative environments and actively seek opportunities to grow, contribute, and create meaningful digital solutions.
 <hr/>
 
-- 📫 How to reach me **https://www.linkedin.com/in/nick-pantev-490a67201/**
+
 
 ### 💻 Languages and Tools
 
@@ -28,11 +28,11 @@ I'm an enthusiastic software engineer based in Bulgaria Sofia with dual Master�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
@@ -46,4 +46,5 @@ I'm an enthusiastic software engineer based in Bulgaria Sofia with dual Master�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
-###
+
+- 📫 How to reach me **https://www.linkedin.com/in/nick-pantev-490a67201/**
