@@ -6,7 +6,7 @@
 ## About Me
 
 
-I'm an enthusiastic software engineer based in Bulgaria Sofia with dual Master’s degrees in Software Engineering and Law, blending analytical precision with hands-on technical skills. I recently completed the intensive JavaScript Alpha program at Telerik Academy, where I built full-stack projects using JavaScript, React, TypeScript, Next.js, PostgreSQL, and Firebase. I'm passionate about building scalable, user-focused web applications and continuously improving through real-world problem solving, clean code, and teamwork. I thrive in collaborative environments and actively seek opportunities to grow, contribute, and create meaningful digital solutions.
+I'm an enthusiastic software engineer based in Bulgaria Sofia with dual Master’s degrees in Software Engineering and Law, blending analytical precision with hands-on technical skills. I recently completed the intensive JavaScript Alpha program at Telerik Academy, where I built full-stack projects using JavaScript, Java, React, TypeScript, Next.js, PostgreSQL, and Firebase. I'm passionate about building scalable, user-focused web applications and continuously improving through real-world problem solving, clean code, and teamwork. I thrive in collaborative environments and actively seek opportunities to grow, contribute, and create meaningful digital solutions.
 <hr/>
 
 
